@@ -4,7 +4,7 @@ html,body {
     overflow-x:hidden;
 }
 
-#text{
+#header-text{
     font-weight: 700;
     font-size: 130px;
     padding-top:20px;
